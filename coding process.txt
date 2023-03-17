@@ -1,0 +1,10 @@
+Get API key from open AI
+Add new project on Firebase
+
+Start a new typescript and NExt.js project with
+=>npx create-next-app@latest my-project --typescript --eslint
+=>npm install -D tailwindcss postcss autoprefixer
+=>npx tailwindcss init -p
+
+On the terminal inside the project, run
+=>npm run dev
