@@ -1,3 +1,6 @@
+Web App Details
+===============
+
 1. Live Demo: https://chat-gpt-clone-pgenumq9y-hysterickal.vercel.app/
 
 2. Technologies used in this build:🤖  
